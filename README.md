@@ -7,7 +7,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning *Frontend Technology*
 
-- 👨‍💻 All of my projects are available at [https://omesh96.github.io/](https://sumansauravmay.github.io/)
+- 👨‍💻 All of my projects are available at [https://omesh96.github.io/](https://omesh96.github.io/)
 
 - 💬 Ask me about *HTML,CSS,JS,React.js,Next.js,Redux,Storybook,Typescript*
 
